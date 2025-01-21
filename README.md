@@ -94,7 +94,6 @@ sudo mysql_secure_installation
 ## About Olvy
 
 Olvy is a private and independent Limited Liability Company based in Bratislava, Slovakia, offering innovative and reliable Managed Cloud Hosting services. 
-OLVY CLOUD
 
 For more information, visit [Olvy's website](https://olvy.net/).
 
